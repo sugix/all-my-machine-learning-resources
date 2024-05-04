@@ -37,3 +37,6 @@ The topics are not limited to following list
 ### Links
 
 - [ML From Scratch](https://github.com/eriklindernoren/ML-From-Scratch/tree/master/mlfromscratch)
+
+
+## Certificates

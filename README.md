@@ -1,6 +1,8 @@
 # all-my-machine-learning-resources
 
+### Project Page
 
+[--> Look at the project page for details](https://mathematics-for-ml-dl-specialization-myself33844-07da62a263e11e.gitlab.io/)
 
 ## Getting started
 

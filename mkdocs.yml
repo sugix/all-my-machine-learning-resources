@@ -1,0 +1,5 @@
+site_name: ML/DL Notes
+site_dir: public
+theme: lux
+plugins:
+    - mkdocs-jupyter

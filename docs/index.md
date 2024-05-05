@@ -37,6 +37,8 @@ The topics are not limited to following list
 ### Links
 
 - [ML From Scratch](https://github.com/eriklindernoren/ML-From-Scratch/tree/master/mlfromscratch)
-
+- [Ian Goodfellow book](https://www.deeplearningbook.org/)
 
 ## Certificates
+
+![Supervised Learning](/Certificates/supervised_certificate.png)

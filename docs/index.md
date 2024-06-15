@@ -44,3 +44,4 @@ The topics are not limited to following list
 ![Supervised Learning](/Certificates/supervised_certificate.png)
 ![Advanced Learning](/Certificates/advanced_certificate.png)
 ![Unsupervised Learning](/Certificates/unsupervised.png)
+![Udacity](/Certificates/udacity_cert.png)
